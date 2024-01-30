@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="container">
         <h1>
-        <Link style={{color:"white", textDecoration:"none"}} to={"/"}>KALVIUM❤️</Link>
+        <Link style={{color:"white", textDecoration:"none"}} to={"/"}>KALVIUM</Link>
         </h1>
         <div className="nav">
 
